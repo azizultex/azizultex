@@ -1,17 +1,20 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=azizultex&color=brightgreen)
 
-<!--
-**azizultex/azizultex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Azizul Haque, an entrepreneur, developer, and traveller. I love reading, learning technologies, managing remote team, and hovering the world. 
 
-Here are some ideas to get you started:
+I founded [@WPPOOL](https://wppool.dev/?utm_source=github&utm_medium=azizultex) – A WordPress product company where do breed unique, amazing WrodPress products to help business make their life easier. WPPOOL is fully remote team based in Bangladesh. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of our products include:
+
+- 🌓 [**WP Dark Mode**](https://wppool.dev/wp-dark-mode/?utm_source=github&utm_medium=azizultex) - The best dark mode plugin for WordPress. Turn your website into dark mode in just on-click. Less eye strain. More user satisfaction.
+- 🛍 [**Stock Sync with Google Sheets**](https://wppool.dev/stock-sync-with-google-sheet-for-woocommerce/?utm_source=github&utm_medium=azizultex) - Easy, simple, and convenient stock management plugin for WooCommerce. Track your WooCoomerce product stock from a single Google Sheet
+- 🔄 [**Sheets to WP Table Sync**](https://wppool.dev/google-sheets-to-wordpress-table-live-sync/?utm_source=github&utm_medium=azizultex) - Quick. Easy. Simple. Keep your Google Spreadsheet data always synced LIVE with the WordPress table. Responsive data tables with as many data you want to display - Sheets to WP Table Live Sync plugin got it all!
+- 👨🏻‍💻 [**Easy Video Reviews**](https://wppool.dev/easy-video-reviews/?utm_source=github&utm_medium=azizultex) - Next level business review plugin for WordPress. We replaced text reviews with more reliable video reviews. Let your customers record and send video testimonials right from their browser, and you can manage and showcase them anywhere on your WordPress website.
+- 👨🏻‍💻 [**Webinar & Video Conference with Jitsi Meet**](https://wppool.dev/webinar-and-video-conference-with-jitsi-meet/?utm_source=github&utm_medium=azizultex) - Create a self-hosted, branded video meeting experience in WordPress easily. Power up your live webinar & video conference hosting experience with Jitsi Meet WordPress plugin. 
+
+Get more amazing WordPress products at [@WPPOOL](https://wppool.dev/?utm_source=github&utm_medium=azizultex)
+
+Always open to listen for new possibilities. Don't hesitate to reach out. 
+
+
