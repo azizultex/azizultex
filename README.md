@@ -3,9 +3,9 @@
 
 I am Azizul Haque, an entrepreneur, developer, and traveller. I love reading, learning technologies, managing remote team, and hovering the world. 
 
-I founded [@WPPOOL](https://wppool.dev/?utm_source=github&utm_medium=azizultex) – A WordPress product company where do breed unique, amazing WrodPress products to help business make their life easier. WPPOOL is fully remote team based in Bangladesh. 
+I founded [@WPPOOL](https://wppool.dev/?utm_source=github&utm_medium=azizultex) – A WordPress product company where we breed amazing unique WrodPress products to help business make their life easier. WPPOOL is fully remote team based in Bangladesh with an excellent work culture focusing on happy, healty personal and work-life balance. 
 
-Some of our products include:
+Some of our products are:
 
 - 🌓 [**WP Dark Mode**](https://wppool.dev/wp-dark-mode/?utm_source=github&utm_medium=azizultex) - The best dark mode plugin for WordPress. Turn your website into dark mode in just on-click. Less eye strain. More user satisfaction.
 - 🛍 [**Stock Sync with Google Sheets**](https://wppool.dev/stock-sync-with-google-sheet-for-woocommerce/?utm_source=github&utm_medium=azizultex) - Easy, simple, and convenient stock management plugin for WooCommerce. Track your WooCoomerce product stock from a single Google Sheet
@@ -16,5 +16,3 @@ Some of our products include:
 Get more amazing WordPress products at [@WPPOOL](https://wppool.dev/?utm_source=github&utm_medium=azizultex)
 
 Always open to listen for new possibilities. Don't hesitate to reach out. 
-
-
