@@ -3,7 +3,7 @@
 
 I am Azizul Haque, an entrepreneur, developer, and traveller. I love reading, learning technologies, managing remote team, and hovering the world. 
 
-I founded [@WPPOOL](https://wppool.dev/?utm_source=github&utm_medium=azizultex) – A WordPress product company where we breed amazing unique WrodPress products to help business make their life easier. WPPOOL is fully remote team based in Bangladesh with an excellent work culture focusing on happy, healty personal and work-life balance. 
+I founded [@WPPOOL](https://wppool.dev/?utm_source=github&utm_medium=azizultex) – A WordPress product company where we breed amazing unique WrodPress products to help businesses make their life easier. WPPOOL is fully autonomous remote team based in Bangladesh with an excellent work culture focusing on happy, healty personal and work-life balance. 
 
 Some of our products are:
 
